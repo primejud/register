@@ -1,0 +1,13 @@
+{
+  "description": "My personal portfolio",
+  "domain": "owns.it.com",
+  "subdomain": "pass",
+  "owner": {
+    "repo": "https://github.com/primejud/pass",
+    "email": "simplelogin-newsletter.unmasking477@simplelogin.com"
+  },
+  "record": {
+    "CNAME": "primejud.github.io"
+  },
+  "proxied": false
+}
